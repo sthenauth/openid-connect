@@ -1,4 +1,0 @@
-packages: *.cabal
-
-tests: true
-benchmarks: true
